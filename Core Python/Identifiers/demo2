@@ -1,0 +1,7 @@
+input output functions
+.......................
+fuctions used for input output operations are
+-input:
+ used to read a value from console
+-print:
+ to print a message from console

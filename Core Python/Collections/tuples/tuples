@@ -1,0 +1,5 @@
+tuples
+tp=()
+print(type(tp))
+
+tp=tuple()     #using function

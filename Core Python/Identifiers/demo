@@ -1,0 +1,26 @@
+identifiers
+.............
+-variable name
+-functional name
+-class name
+
+-variable name: is used for memory allocation
+ variablename= value
+ name= "luminar technolab"
+
+-function name:
+ def contact()     #contact= identifier
+    print("kakkanad")
+
+-class name:
+ class Person      #Person= identifier
+
+rules to define a variable
+-no num
+-no space
+-use underscore
+..................
+-case sensitive
+num=10
+Num=20
+NUM=30

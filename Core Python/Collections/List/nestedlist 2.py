@@ -1,0 +1,8 @@
+lst=[[1001,"arun",25,1000],
+     [1002,"arjun",26,2000],
+     [1003,"vinu",27,3000],
+     [1004,"binu",28,4000]]
+sum =0
+for emp in lst:
+    sum=sum+emp[3]
+    print(sum)
